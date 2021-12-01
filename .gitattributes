@@ -1,5 +1,0 @@
-*.mp4 filter=lfs diff=lfs merge=lfs -text
-*.265 filter=lfs diff=lfs merge=lfs -text
-*.264 filter=lfs diff=lfs merge=lfs -text
-*.raw filter=lfs diff=lfs merge=lfs -text
-*.bin filter=lfs diff=lfs merge=lfs -text
